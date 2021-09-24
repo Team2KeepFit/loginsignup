@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "57123943999",
+    "project_id": "keeptfit",
+    "storage_bucket": "keeptfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57123943999:android:f4bcb277a7e2f27c2e2a8a",
+        "android_client_info": {
+          "package_name": "com.example.keepfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57123943999-6us6p7igf9pl63932uh896ugdeom6pi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keepfit",
+            "certificate_hash": "4ce2c3f87a7ab96844568e57bac6349cc64b3e57"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8nfwU7gUMSQN-bJ1UwuJ8HMBRF5sCUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57123943999:android:6b11f2e44b0be3a02e2a8a",
+        "android_client_info": {
+          "package_name": "com.example.summakizhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8nfwU7gUMSQN-bJ1UwuJ8HMBRF5sCUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
